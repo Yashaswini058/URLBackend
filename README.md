@@ -2,6 +2,9 @@
 
 This is the backend service for the **URL Shortener** application.  
 It provides APIs to shorten long URLs, redirect short URLs to their original destinations, and manage link data.
+> Part of the **URL Shortener** project  
+> 👉 Main repository: [Link](https://github.com/Yashaswini058/url-shortener.git)
+
 
 ---
 
